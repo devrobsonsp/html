@@ -10,5 +10,5 @@
 
 <l4>2.2. Montar uma tabela igual à seguinte, utilizando códigos HTML.</l4>
 
-https://github.com/devrobsonsp/html/issues/1#issue-695509454
+![TABELA](https://user-images.githubusercontent.com/57074723/92429480-72045200-f168-11ea-8be2-0128a0647219.png)
 
